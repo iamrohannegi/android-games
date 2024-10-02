@@ -1,4 +1,4 @@
-Re-uploading games I made for Android
+Re-uploading the games I made for Android
 
 # DOCTORS VS APPLES
 "Doctors vs Apples" is an Android game built using Unity3D where players take on the role of a doctor trying to avoid a barrage of falling apples. The gameplay involves moving left or right, jumping to dodge apples, and using injections as a weapon to destroy them. As players progress and improve their score, they can unlock various skins for their character, adding a fun element of customization.
