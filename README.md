@@ -1,6 +1,6 @@
 Re-uploading games I made for Android
 
-DOCTORS VS APPLES
+**DOCTORS VS APPLES**
 
 ![image](https://github.com/user-attachments/assets/34758fc2-ae25-4013-a842-da7b39c19f4c)
 
